@@ -1,0 +1,5 @@
+D:\D Drive\Demp\Demo\WebSite17\BLayer\bin\Debug\BLayer.dll
+D:\D Drive\Demp\Demo\WebSite17\BLayer\bin\Debug\BLayer.pdb
+D:\D Drive\Demp\Demo\WebSite17\BLayer\obj\Debug\BLayer.csprojResolveAssemblyReference.cache
+D:\D Drive\Demp\Demo\WebSite17\BLayer\obj\Debug\BLayer.dll
+D:\D Drive\Demp\Demo\WebSite17\BLayer\obj\Debug\BLayer.pdb
